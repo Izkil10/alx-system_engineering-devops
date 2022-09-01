@@ -1,3 +1,3 @@
 current working directory
-the contents list of your current directory.
- changes the working directory 
+list of your current directory.
+changes the working directory 
