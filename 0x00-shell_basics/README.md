@@ -6,4 +6,5 @@ Display current directory contents.Long format
 with user and group IDs displayed numerically
 /tmp/my first directory: directory
 move betty in my first directory
-Deletr betty in my first directoy.
+Deletr betty in my first directoy
+Delete the directory,my first directory.
