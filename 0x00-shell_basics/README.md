@@ -8,3 +8,4 @@ with user and group IDs displayed numerically
 move betty in my first directory
 Deletr betty in my first directoy
 Delete the directory,my first directory.
+Writing a scripts that list all files in the current directory
